@@ -1,7 +1,7 @@
 {
   "name": "max-int",
   "version": "1.0.0",
-  "description": "Return the max integer in JavaScript.",
+  "description": "Return the maximum integer in JavaScript.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",
