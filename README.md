@@ -17,5 +17,5 @@ $ npm install --save max-int
 
 ```js
 var MAX_INT = require('max-int');
-// => 9007199254740992
+// => 1.7976931348623157e+308
 ```

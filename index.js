@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = 9007199254740992;
+module.exports = 1.7976931348623157e+308;
